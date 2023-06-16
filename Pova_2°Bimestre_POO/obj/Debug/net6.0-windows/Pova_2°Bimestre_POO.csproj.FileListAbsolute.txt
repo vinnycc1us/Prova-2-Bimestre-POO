@@ -1,0 +1,7 @@
+C:\Users\vinic\OneDrive\Documentos\codigos c#\Pova_2°Bimestre_POO\Pova_2°Bimestre_POO\obj\Debug\net6.0-windows\Pova_2°Bimestre_POO.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Documentos\codigos c#\Pova_2°Bimestre_POO\Pova_2°Bimestre_POO\obj\Debug\net6.0-windows\Pova_2_Bimestre_POO.Form1.resources
+C:\Users\vinic\OneDrive\Documentos\codigos c#\Pova_2°Bimestre_POO\Pova_2°Bimestre_POO\obj\Debug\net6.0-windows\Pova_2°Bimestre_POO.csproj.GenerateResource.cache
+C:\Users\vinic\OneDrive\Documentos\codigos c#\Pova_2°Bimestre_POO\Pova_2°Bimestre_POO\obj\Debug\net6.0-windows\Pova_2°Bimestre_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Documentos\codigos c#\Pova_2°Bimestre_POO\Pova_2°Bimestre_POO\obj\Debug\net6.0-windows\Pova_2°Bimestre_POO.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Documentos\codigos c#\Pova_2°Bimestre_POO\Pova_2°Bimestre_POO\obj\Debug\net6.0-windows\Pova_2°Bimestre_POO.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Documentos\codigos c#\Pova_2°Bimestre_POO\Pova_2°Bimestre_POO\obj\Debug\net6.0-windows\Pova_2°Bimestre_POO.csproj.CoreCompileInputs.cache
